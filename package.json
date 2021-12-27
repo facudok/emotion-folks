@@ -1,0 +1,26 @@
+{
+  "name": "emotion-folks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facudok/emotion-folks.git"
+  },
+  "author": "programming folks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/facudok/emotion-folks/issues"
+  },
+  "homepage": "https://github.com/facudok/emotion-folks#readme"
+}
